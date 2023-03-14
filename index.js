@@ -1,3 +1,4 @@
+// task-1(sultan) 
 // make a function to find maximum number from an array 
 const array = [334,4,5,45,65,6,56,4565]
 function maxNum(arr){
@@ -10,3 +11,9 @@ function maxNum(arr){
     return max
 }
 console.log(maxNum(array))
+
+// task-2(Arif vai)
+// brother arif, write a function to find the minimum number from this array
+
+// task-3(Rony vai)
+// brother rony, write a function to add all the number of array 
