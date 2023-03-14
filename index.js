@@ -28,3 +28,5 @@ console.log(minNum(array));
 
 // task-3(Rony vai)
 // brother rony, write a function to add all the number of array
+
+console.log("hello world");
